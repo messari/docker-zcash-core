@@ -6,7 +6,7 @@ A Zcash Core docker image.
 
 ## Tags
 
-- `2.0.0`, `latest` ([2.0.0/Dockerfile](https://github.com/messari/docker-zcash-core/blob/master/2.0.0/Dockerfile))
+- `2.0.3`, `latest` ([2.0.3/Dockerfile](https://github.com/messari/docker-zcash-core/blob/master/2.0.3/Dockerfile))
 
 **Picking the right tag**
 
